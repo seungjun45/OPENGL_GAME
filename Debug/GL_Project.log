@@ -1,0 +1,19 @@
+﻿  geo_primitives.cpp
+  main.cpp
+c:\users\seungjun\documents\gl_project_with_texture_mapping(32bits)\geometry3.h(89): warning C4101: 'err' :참조되지 않은 지역 변수입니다.
+c:\users\seungjun\documents\gl_project_with_texture_mapping(32bits)\geometry3.h(124): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+c:\users\seungjun\documents\gl_project_with_texture_mapping(32bits)\geometry3.h(124): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\seungjun\documents\gl_project_with_texture_mapping(32bits)\geometry3.h(124): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\seungjun\documents\gl_project_with_texture_mapping(32bits)\geometry3.h(126): warning C4101: 'err' :참조되지 않은 지역 변수입니다.
+c:\users\seungjun\documents\gl_project_with_texture_mapping(32bits)\geometry3.h(125): warning C4101: 'fp' :참조되지 않은 지역 변수입니다.
+c:\users\seungjun\documents\gl_project_with_texture_mapping(32bits)\main.cpp(6): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  c:\users\seungjun\documents\gl_project_with_texture_mapping(32bits)\main.cpp(6): note: 명령줄 인수: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+c:\users\seungjun\documents\gl_project_with_texture_mapping(32bits)\main.cpp(72): warning C4101: 'index' :참조되지 않은 지역 변수입니다.
+c:\users\seungjun\documents\gl_project_with_texture_mapping(32bits)\main.cpp(71): warning C4101: 'depth' :참조되지 않은 지역 변수입니다.
+c:\users\seungjun\documents\gl_project_with_texture_mapping(32bits)\main.cpp(70): warning C4101: 'color' :참조되지 않은 지역 변수입니다.
+c:\users\seungjun\documents\gl_project_with_texture_mapping(32bits)\main.cpp(612): warning C4101: 'texture' :참조되지 않은 지역 변수입니다.
+c:\users\seungjun\documents\gl_project_with_texture_mapping(32bits)\main.cpp(613): warning C4101: 'trans_camera' :참조되지 않은 지역 변수입니다.
+  shaders.cpp
+  코드를 생성하고 있습니다...
+LINK : warning LNK4098: 'MSVCRT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  GL_Project.vcxproj -> C:\Users\seungjun\Documents\GL_Project_with_Texture_Mapping(32bits)\Debug\GL_Project.exe

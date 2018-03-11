@@ -1,0 +1,15 @@
+﻿  geo_primitives.cpp
+  shaders.cpp
+  코드를 생성하고 있습니다...
+LINK : warning LNK4098: 'MSVCRT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+main.obj : error LNK2019: __imp_FreeImage_Unload 외부 기호(참조 위치: "void __cdecl inittexture_PNG(char const *,unsigned int)" (?inittexture_PNG@@YAXPEBDI@Z) 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: __imp_FreeImage_Load 외부 기호(참조 위치: "void __cdecl inittexture_PNG(char const *,unsigned int)" (?inittexture_PNG@@YAXPEBDI@Z) 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: __imp_FreeImage_GetFileType 외부 기호(참조 위치: "void __cdecl inittexture_PNG(char const *,unsigned int)" (?inittexture_PNG@@YAXPEBDI@Z) 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: __imp_FreeImage_GetBits 외부 기호(참조 위치: "void __cdecl inittexture_PNG(char const *,unsigned int)" (?inittexture_PNG@@YAXPEBDI@Z) 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: __imp_FreeImage_GetWidth 외부 기호(참조 위치: "void __cdecl inittexture_PNG(char const *,unsigned int)" (?inittexture_PNG@@YAXPEBDI@Z) 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: __imp_FreeImage_GetHeight 외부 기호(참조 위치: "void __cdecl inittexture_PNG(char const *,unsigned int)" (?inittexture_PNG@@YAXPEBDI@Z) 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: __imp_FreeImage_ConvertTo32Bits 외부 기호(참조 위치: "void __cdecl inittexture_PNG(char const *,unsigned int)" (?inittexture_PNG@@YAXPEBDI@Z) 함수)에서 확인하지 못했습니다.
+.\lib\glut.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+.\lib\FreeImage.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+.\lib\glut32.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\seungjun\Documents\Visual Studio 2017\Projects\GL_Project_with_Texture_Mapping\x64\Debug\GL_Project.exe : fatal error LNK1120: 7개의 확인할 수 없는 외부 참조입니다.
